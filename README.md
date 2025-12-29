@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindr-k&label=Profile%20views&color=0e75b6&style=flat" alt="aravindr-k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindr-k" alt="aravindr-k" /></a> </p>
-
 - 🔭 I’m currently working on [Medical Expert System](https://github.com/AravindR-K/Medical-Expert-System)
 
 - 🌱 I’m currently learning **React**
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aravind-rk-956271276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravind-rk-956271276/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aravind-rk-956271276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravind-rk-956271276/" height="30" width="40" /></a>
 <a href="https://kaggle.com/aravindrk005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aravindrk005" height="30" width="40" /></a>
 <a href="https://instagram.com/__aravindrk__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aravindrk__" height="30" width="40" /></a>
 </p>
