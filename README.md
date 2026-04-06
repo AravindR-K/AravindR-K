@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindr-k&label=Profile%20views&color=0e75b6&style=flat" alt="aravindr-k" /> </p>
 
-- 🔭 I’m currently working on [Medical Expert System](https://github.com/AravindR-K/Medical-Expert-System)
+- 🔭 I’m currently working on MEAN projects
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **aravind05.rk@gmail.com**
 
