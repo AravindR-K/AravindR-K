@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aravind RK<br>I'm currently doing my Third year at Amrita Vishwa Vidyapeetham, pursuing Computer Science and Engineering<br><br>🔭 I’m currently working on MEAN project : Quiz Application for a company<br>👯 I’m looking to collaborate on Open Source Project<br>🌱 I’m currently learning Angular<br>📫 Feel free to reach me : aravind05.rk@gmail.com<br>
+Hi 👋, I'm Aravind RK<br>I'm currently doing my Final year at Amrita Vishwa Vidyapeetham, pursuing Computer Science and Engineering<br><br>🔭 I’m currently working on Final year project : Speckle reduction and imag enhancement in Ultrasound Image <br>👯 I’m looking to collaborate on Open Source Project<br>🌱 I’m currently learning System Design to enhance by backend knowledge<br>📫 Feel free to reach me : aravind05.rk@gmail.com<br>
 
 
 ## 🌐 Socials:
